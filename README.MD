@@ -1,3 +1,9 @@
+# NFT-Generator
+
+![Forks](https://badgen.net/github/forks/SPROKTAL/NFT-GENERATOR?icon=github&scale=1.2&color=red&cache=300) &nbsp;
+![Stars](https://badgen.net/github/stars/SPROKTAL/NFT-GENERATOR?icon=https://upload.wikimedia.org/wikipedia/commons/a/a3/Orange_star.svg&scale=1.2&color=orange&cache=300) &nbsp;
+![License](https://badgen.net/badge/license/MIT/purple?scale=1.2) &nbsp;
+
 **NFT-Generator** is the best way to generate thousands of NFTs quick and easily with Python. Just add your files, set your configuration and run the script. You'll get all the images and metadata required for your NFT project!
 
 ## How to use?
